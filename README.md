@@ -242,7 +242,7 @@ This project gives the retail business a clear, data-backed action plan:
 ## 📸 Dashboard & Output Screenshots
 
 ### 🔵 Power BI Interactive Dashboard
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/PatlaveetiJabeer786/Customer-Shopping-Behavior-Analysis-/blob/main/Customer_behaviour_Analysis_using_power%20BI/Customer_behaviour_dashboard.png)
 
 ### 🟡 Python EDA Charts
 ![Python EDA](images/python_eda_charts.png)
